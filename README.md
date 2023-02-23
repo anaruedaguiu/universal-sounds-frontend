@@ -1,7 +1,7 @@
-## Project name <h1 align="center">VINILART</h1>
+## Project name
 
 <div align="center"> 
-  <img src="" width="300">
+  <img src="public/Image20230223101002.png" width="400">
 </div>
 
 ## Description
@@ -129,7 +129,18 @@ To run the tests, execute the following command(s)
   vendor/bin/phpunit tests
 ```
 
-- Postman Screenshots
+- Postman' Screenshots
+Screenshots of Postman App used to check API routes.
+-Read (R of CRUD) - Page with the list of Vinils
+  <img src="public/Image20230223101002.png" width="300">
+-Delete (D of CRUD)
+  <img src="public/Image20230223101002.png" width="300">
+-Create (C of CRUD)
+  <img src="public/Image20230223101002.png" width="300">
+-Update (U of CRUD) 
+  <img src="public/Image20230223101002.png" width="300">
+-Show - Page with the detail of a Vinil
+  <img src="public/Image20230223101002.png" width="300">
 
 
 ***
