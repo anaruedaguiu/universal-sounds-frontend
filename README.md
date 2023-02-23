@@ -5,9 +5,9 @@
 </div>
 
 ## Description
-The project consist on design and develop a marketplace
+The project consist in design and develop a Marketplace
 
-- About the App:
+- About the ***VINILART*** App:
 
 Our objective is to provide a platform for music enthusiasts to easily discover and purchase antique music albums online. We aim to satisfy the increasing demand for old albums by offering a wide selection of LPs, giving customers the opportunity to find and purchase the albums they are looking for. Our website has been designed with a user-friendly interface, including a navbar, body, and footer with all the necessary functions to provide a seamless shopping experience for our customers.
 
@@ -20,6 +20,7 @@ Our objective is to provide a platform for music enthusiasts to easily discover 
 * [Installation](#how-to-install-this-project)
 * [Tests](#tests)
 * [Methodology](#methodology)
+* [Core skills](#core-skills)
 * [Next Steps](#next-steps)
 
 ***
@@ -36,21 +37,54 @@ Our objective is to provide a platform for music enthusiasts to easily discover 
 - [Laura]() - Developer
 - [Diana]() - Developer
 
+***
+
+## Screenshots
 
 
+***
 
 
-_________________
+## Stacks
 
-# Getting Started with Create React App
+- HTML 5
+- CSS 3
+- Tailwind
+- PHP 8.0.2
+- Laravel Framework 9.19
+- Postman for Windows Version 10.10.8
+- React 18.2.0
+- React Router Dom 6.8.1
+- MySQL
+
+***
+
+## How to install this project
+  **BACK** 
+* Clone git (INCLUIR DIRECCIÓN REPOSITORIO)
+* Create a local database on phpMyAdmin:
+  - Database name: ***universalsounds***
+* Create an .env file by copying the contents of .env.example and modify the database name (laravel by universalsounds)
+* Install dependencies in a Visual Studio Code terminal:
+  - Run ***npm install*** or ***npm update*** command
+  - Run ***composer install***
+* Activate the server and keep this terminal open:
+  - Run ***npm run dev*** command
+* Run the server in a Visual Studio Code new terminal using (and keep this terminal open):
+  - ***php artisan serve*** command
+* Run migration:
+  - ***php artisan migration:fresh --seed*** command
+
+  **FRONT**
+* Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+* Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+* `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -58,12 +92,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+* `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+* `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -73,7 +107,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+* `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -83,32 +117,35 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+***
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Tests
+To run the tests, execute the following command(s)
+```bash
+  php artisan test
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+  vendor/bin/phpunit tests
+```
 
-### Code Splitting
+- Postman Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+***
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Methodology
+- TDD
+- Agile with Scrum
+- Mob, pair and solo programming
 
-### Making a Progressive Web App
+***
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Core skills
+* MVC Design pattern.
+* Git version control system.
+* User stories and tasks implementation (Trello).
+* Communication and self-evaluation.
 
-### Advanced Configuration
+## Next Steps
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
