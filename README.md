@@ -1,3 +1,47 @@
+## Project name <h1 align="center">VINILART</h1>
+
+<div align="center"> 
+  <img src="" width="300">
+</div>
+
+## Description
+The project consist on design and develop a marketplace
+
+- About the App:
+
+Our objective is to provide a platform for music enthusiasts to easily discover and purchase antique music albums online. We aim to satisfy the increasing demand for old albums by offering a wide selection of LPs, giving customers the opportunity to find and purchase the albums they are looking for. Our website has been designed with a user-friendly interface, including a navbar, body, and footer with all the necessary functions to provide a seamless shopping experience for our customers.
+
+***
+
+## Table of contents
+* [Team Members](#team-members)
+* [Screenshots](#screenshots)
+* [Technologies](#stacks)
+* [Installation](#how-to-install-this-project)
+* [Tests](#tests)
+* [Methodology](#methodology)
+* [Next Steps](#next-steps)
+
+***
+
+## Team Members
+- [Alejandra Morales Cuitiño](https://github.com/AleMCuitino) - SCRUM Master
+- [Ana Rueda Guiu](https://github.com/anaruedaguiu) - Product Owner
+- [Iyán Pérez Marcos](https://github.com/IyanPerez) - Developer
+- [Luis Custodio](https://github.com/Custodioluis) - Developer
+- [Shima Naderi](https://github.com/Archima20) - Developer
+- [Taoufik](https://github.com/taoufikL12) - Developer
+- [Elena Pulido Alvaré](https://github.com/elenapulido) - Developer
+- [Belén Zumalacarregui](https://github.com/belenz77) - Developer
+- [Laura]() - Developer
+- [Diana]() - Developer
+
+
+
+
+
+_________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
