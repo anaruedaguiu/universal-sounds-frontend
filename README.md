@@ -28,12 +28,12 @@ Our objective is to provide a platform for music enthusiasts to easily discover 
 ## Team Members
 - [Alejandra Morales Cuitiño](https://github.com/AleMCuitino) - SCRUM Master
 - [Ana Rueda Guiu](https://github.com/anaruedaguiu) - Product Owner
+- [Elena Pulido Alvaré](https://github.com/elenapulido) - Developer
+- [Belén Zumalacarregui](https://github.com/belenz77) - Developer
 - [Iyán Pérez Marcos](https://github.com/IyanPerez) - Developer
 - [Luis Custodio](https://github.com/Custodioluis) - Developer
 - [Shima Naderi](https://github.com/Archima20) - Developer
 - [Taoufik](https://github.com/taoufikL12) - Developer
-- [Elena Pulido Alvaré](https://github.com/elenapulido) - Developer
-- [Belén Zumalacarregui](https://github.com/belenz77) - Developer
 - [Laura]() - Developer
 - [Diana]() - Developer
 
@@ -41,6 +41,26 @@ Our objective is to provide a platform for music enthusiasts to easily discover 
 
 ## Screenshots
 
+<h3 align="center">Sketch Home and Product View - Desktop</h3>
+<p align="center"> 
+    <img src="public/sketchHomeDesktop.png" alt="Sketch Home View Desktop" width="200px">
+    <img src="public/sketchProductDesktop.png" alt="Sketch Product View Desktop" width="200px">
+</p>
+
+
+<h3 align="center">Mockups Views: Home, Product and Cart - Desktop</h3>
+<p align="center"> 
+    <img src="public/designHomeDesktop.png" alt="Mockup Home View Desktop" width="200px">
+    <img src="public/designProductDesktop.png" alt="Mockup Product View Desktop" width="200px">
+    <img src="public/designCartDesktop.png" alt="Mockup Cart View Desktop" width="200px">
+</p>
+
+<h3 align="center">Mockups Views: Home, Product and Cart - Mobile</h3>
+<p align="center"> 
+    <img src="public/designHomeMobile.png" alt="Mockup Home View Mobile" width="159px">
+    <img src="public/designProductMobile.png" alt="Mockup Product View Mobile" width="155px">
+    <img src="public/designCartMobile.png" alt="Mockup Cart View Mobile" width="150px">
+</p>
 
 ***
 
