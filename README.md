@@ -1,7 +1,7 @@
-## Project name <h1 align="center">VINILART</h1>
+## Project name
 
 <div align="center"> 
-  <img src="" width="300">
+  <img src="public/Image20230223101002.png" width="400">
 </div>
 
 ## Description
