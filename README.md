@@ -81,7 +81,7 @@ Our objective is to provide a platform for music enthusiasts to easily discover 
 
 ## How to install this project
   **BACK** 
-* Clone git (INCLUIR DIRECCIÓN REPOSITORIO)
+* Clone git https://github.com/anaruedaguiu/apiHackathon.git
 * Create a local database on phpMyAdmin:
   - Database name: ***universalsounds***
 * Create an .env file by copying the contents of .env.example and modify the database name (laravel by universalsounds)
@@ -96,6 +96,8 @@ Our objective is to provide a platform for music enthusiasts to easily discover 
   - ***php artisan migration:fresh --seed*** command
 
   **FRONT**
+* Clone git https://github.com/AleMCuitino/universal-sounds-frontend.git 
+
 * Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
