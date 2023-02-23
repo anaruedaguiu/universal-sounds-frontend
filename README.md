@@ -130,17 +130,21 @@ To run the tests, execute the following command(s)
 ```
 
 - Postman' Screenshots
-Screenshots of Postman App used to check API routes.
--Read (R of CRUD) - Page with the list of Vinils
-  <img src="public/Image20230223101002.png" width="300">
--Delete (D of CRUD)
-  <img src="public/Image20230223101002.png" width="300">
--Create (C of CRUD)
-  <img src="public/Image20230223101002.png" width="300">
--Update (U of CRUD) 
-  <img src="public/Image20230223101002.png" width="300">
--Show - Page with the detail of a Vinil
-  <img src="public/Image20230223101002.png" width="300">
+
+Screenshots of ***Postman App*** used to check API routes.
+
+Screenshots show how Postman returns a '200' code when routes run for each method of CRUD. In order, you can find: 
+<h5 align="center">Read (Page with the list of Vinils) |  Delete | Create | Update | Show (Page with the detail of a Vinil)</h5>
+
+<div align="center">
+  <div class="d-flex flex-nowrap">
+    <img src="public/postman1.png" width="300">
+    <img src="public/postman2.png" width="300">
+    <img src="public/postman3.png" width="300">
+    <img src="public/postman4.png" width="300">
+    <img src="public/postman5.png" width="300">
+  </div>
+</div>
 
 
 ***
@@ -160,3 +164,12 @@ Screenshots of Postman App used to check API routes.
 
 ## Next Steps
 
+This is a MVP developed for a **F5 Hackathon**. 
+
+What would be added if there were more time?
+
+* Implement user roles and authentication permissions (guests - users - admin). 
+
+* Add a forum section in the App where users can exchange opinions, recommendations and suggestions about their musical tastes, promoting the development of a community where people of different generations and ages connect.
+
+* Keep adding functionalities (pagination, buttons...)
