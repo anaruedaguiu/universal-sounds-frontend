@@ -164,3 +164,12 @@ Screenshots show how Postman returns a '200' code when routes run for each metho
 
 ## Next Steps
 
+This is a MVP developed for a **F5 Hackathon**. 
+
+What would be added if there were more time?
+
+* Implement user roles and authentication permissions (guests - users - admin). 
+
+* Add a forum section in the App where users can exchange opinions, recommendations and suggestions about their musical tastes, promoting the development of a community where people of different generations and ages connect.
+
+* Keep adding functionalities (pagination, buttons...)
