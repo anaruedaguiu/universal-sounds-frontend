@@ -146,10 +146,12 @@ To run the tests, execute the following command(s)
 ```bash
   php artisan test
 ```
+<img width="500" alt="php artisan test" src="public/screenshotTest2 (2).png">
 
 ```bash
   vendor/bin/phpunit tests
 ```
+<img width="500" alt="vendor/bin/phpunit" src="public/screenshotTest2 (1).png">
 
 - Postman' Screenshots
 
